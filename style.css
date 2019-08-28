@@ -64,12 +64,12 @@ body{
 .marginRightTitle{
     text-decoration: none;
     margin-top: 97px;
-    margin-left: 100px    
+    margin-left: 60px    
 }
 
 .RightColumn{
     /*MARGIN*/
-    margin-left: 120px;
+    margin-left: 50px;
     margin-top: 60px;
     width:600px 
 }
